@@ -65,7 +65,7 @@ section {
 }
 
 .header_section {
-    background-image: url(../../images/top-bg.png);
+    background-image: url(../images/top-bg.png);
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
@@ -220,7 +220,7 @@ h1.counter_middle_text {
 }
 
 .card_bg_image {
-    background-image: url(../../images/card-bg.png);
+    background-image: url(../images/card-bg.png);
     display: flex;
     align-items: center;
     justify-content: center;
